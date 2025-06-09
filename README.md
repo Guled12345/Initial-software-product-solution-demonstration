@@ -6,7 +6,7 @@
 This is a minimum viable product (MVP) for a simple AI tool designed to help teachers detect learning difficulties using student data (like test scores, attendance, and behavior). It is built to run offline and can work on basic computers.
 
 ### GitHub Repository
-https://github.com/guledwarsame/ai-learning-difficulties-offline
+https://github.com/Guled12345/Initial-software-product-solution-demonstration/edit/main/README.md
 
 ### Setup Instructions
 
