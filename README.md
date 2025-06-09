@@ -71,13 +71,17 @@ CREATE TABLE students (
 - F1 Score: 0.80
 - Results logged in notebook and validated using `train_test_split`
 
-### 🛠 Deployment Options
-- Web interface using HTML/CSS/JS
-- API UI using Postman or Swagger (optional)
-- Runs 100% offline using Flask, SQLite, and static files
+## 📦 Deployment Plan
 
----
+### Offline Deployment
+- Flask backend runs locally (no cloud or server needed)
+- SQLite DB stores all predictions on disk
+- HTML/CSS/JS frontend works in any browser
 
+### Tested On:
+- Windows 10
+- Ubuntu 22.04
+- Raspberry Pi OS
 ## 📦 Deliverables Summary
 
 - `README.md` (complete setup and usage guide)
