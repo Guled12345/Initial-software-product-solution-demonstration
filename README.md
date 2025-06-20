@@ -98,4 +98,4 @@ CREATE TABLE students (
 ## 📎 GitHub Repository
 https://github.com/Guled12345/Initial-software-product-solution-demonstration/tree/main
 
-Let me know if you would like help generating your video demo script or Figma design next!
+
